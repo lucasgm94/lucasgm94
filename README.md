@@ -1,24 +1,24 @@
 # Hi there! I'm Lucas Martinez 👋
 
-I am a **Functional Analyst** with a solid background in administrative processes and IT support. [cite_start]I specialize in optimizing operational workflows and adopting new technologies to bridge the gap between business needs and technical solutions[cite: 46].
+I am a **Functional Analyst** with a solid background in administrative processes and IT support. I specialize in optimizing operational workflows and adopting new technologies to bridge the gap between business needs and technical solutions.
 
-[cite_start]Currently, I am focused on transitioning into **Cybersecurity and IT roles (Functional Analyst, QA, Development)**, where I can apply my technical vision to mitigate risks and improve operational efficiency[cite: 47].
+Currently, I am focused on transitioning into **Cybersecurity and IT roles (Functional Analyst, QA, Development)**, where I can apply my technical vision to mitigate risks and improve operational efficiency.
 
 ---
 
 ### 🛠 Tech Stack & Tools
-* [cite_start]**Data & Analysis:** Microsoft Power BI, Looker Studio, SQL, MySQL Workbench, Oracle APEX, PL/SQL[cite: 40, 102].
-* [cite_start]**IT Systems:** ERP Softland, SIEM Splunk, GLPI, Notion, Jira, Trello[cite: 40, 103].
-* [cite_start]**Languages:** Python[cite: 40, 104].
-* [cite_start]**Methodologies:** Agile (Kanban, Scrum), Manual/Functional Testing[cite: 40, 105].
+**Data & Analysis:** Microsoft Power BI, Looker Studio, SQL, MySQL Workbench, Oracle APEX, PL/SQL.
+**IT Systems:** ERP Softland, SIEM Splunk, GLPI, Notion, Jira, Trello.
+**Languages:** Python.
+**Methodologies:** Agile (Kanban, Scrum), Manual/Functional Testing.
 
 ---
 
 ### 🛡 Cybersecurity & Cloud Knowledge
-[cite_start]I am currently pursuing a **Diploma in Cybersecurity** (expected 2026) [cite: 35, 78] and continuously expanding my technical skills:
-* [cite_start]**Governance, Risk & Compliance (GRC)**[cite: 38, 85].
-* [cite_start]**Cloud Infrastructure:** AWS IAM, Shared Responsibility Model, and KMS[cite: 38, 91].
-* [cite_start]**Threat Intelligence:** Fortinet Threat Landscape 3.0[cite: 38, 86].
+I am currently pursuing a **Diploma in Cybersecurity** (expected 2026) and continuously expanding my technical skills:
+**Governance, Risk & Compliance (GRC)**.
+**Cloud Infrastructure:** AWS IAM, Shared Responsibility Model, and KMS.
+**Threat Intelligence:** Fortinet Threat Landscape 3.0.
 
 ---
 
@@ -31,9 +31,9 @@ Check out my latest work in these repositories:
 ---
 
 ### 🌍 Languages
-* [cite_start]**Spanish:** Native[cite: 111].
-* [cite_start]**English:** Advanced (EF SET C2)[cite: 112].
-* [cite_start]**Japanese:** Intermediate (JLPT N5)[cite: 113].
+**Spanish:** Native.
+**English:** Advanced (EF SET C2).
+**Japanese:** Intermediate (JLPT N5).
 
 ---
 
