@@ -1,44 +1,54 @@
-# Hi there! I'm Lucas Martinez 👋
+# 👋 Hi, I'm Lucas G. Martinez 👨‍💻
 
-I am a **Functional Analyst** with a solid background in administrative processes and IT support. I specialize in optimizing operational workflows and adopting new technologies to bridge the gap between business needs and technical solutions.
+**Functional Analyst | Process Optimization Specialist | Cybersecurity Enthusiast**
 
-Currently, I am focused on transitioning into **Cybersecurity and IT roles (Functional Analyst, QA, Development)**, where I can apply my technical vision to mitigate risks and improve operational efficiency.
-
----
-
-### 🛠 Tech Stack & Tools
-**Data & Analysis:** Microsoft Power BI, Looker Studio, SQL, MySQL Workbench, Oracle APEX, PL/SQL.
-**IT Systems:** ERP Softland, SIEM Splunk, GLPI, Notion, Jira, Trello.
-**Languages:** Python.
-**Methodologies:** Agile (Kanban, Scrum), Manual/Functional Testing.
+I am a professional with a solid background in operational workflow optimization and IT support. I am currently integrating my functional vision with a strong technical foundation in **Cybersecurity**, aiming to mitigate risks and improve operational efficiency.
 
 ---
 
-### 🛡 Cybersecurity & Cloud Knowledge
-I am currently pursuing a **Diploma in Cybersecurity** (expected 2026) and continuously expanding my technical skills:
-**Governance, Risk & Compliance (GRC)**.
-**Cloud Infrastructure:** AWS IAM, Shared Responsibility Model, and KMS.
-**Threat Intelligence:** Fortinet Threat Landscape 3.0.
+### 🛡️ Education & Certifications
+*Key specializations grouped by area of competence:*
+
+#### 🔒 Cybersecurity & GRC
+* **Diploma in Cybersecurity** (UNTREF) — *In progress (2026)*
+* **Vulnerability Management** — *IBM Skillsbuild (2026)* 🆕
+* **Governance, Risk & Compliance (GRC)** — *IBM Skillsbuild (2025)*
+* **Introduction to Cybersecurity & Information Security** — *Fundación Telefónica (2024)*
+* **Introduction to Cybersecurity** — *Cisco Networking Academy (2024)*
+
+#### ☁️ Cloud Infrastructure & Networking
+* **AWS IAM, Shared Responsibility Model & KMS** — *AWS Skill Builder (2025)*
+* **Cloud Computing** — *Google Digital Academy (2025)*
+* **Networking Basics** — *Cisco Networking Academy (2025)*
+* **Introduction to Threat Landscape 3.0** — *Fortinet (2025)*
+
+#### 📊 Data, Programming & Administration
+* **Oracle Database Programming - PL/SQL** — *UTN FRBA (2025)*
+* **SQL (Databases)** — *Udemy (2026)*
+* **Digital Transformation, Data Science & GenAI** — *Santander Open Academy (2025)*
+* **Accounting Assistant** — *Eddis Educativa (2023)*
+
+---
+
+### 🛠 Tech Stack
+* **Analysis:** Power BI, Looker Studio, SQL, MySQL, Oracle APEX.
+* **Systems:** ERP Softland, SIEM Splunk, GLPI, Jira, Trello, Notion.
+* **Development:** Python (Scripting & Automation).
+* **Methodologies:** Agile (Scrum, Kanban), Functional/Manual Testing.
 
 ---
 
 ### 🚀 Featured Projects
-Check out my latest work in these repositories:
-* [cybersecurity-labs](https://github.com/lucasgm94/cybersecurity-labs): Hands-on security practice and vulnerability assessment scenarios.
-* [power-bi](https://github.com/lucasgm94/power-bi): Data models, reports, and dashboards for strategic decision-making.
-* [code-labs](https://github.com/lucasgm94/code-labs): SQL and Python exercises aimed at improving coding and data skills.
+* [**cybersecurity-labs**](URL): Hands-on security practice and vulnerability assessment.
+* [**power-bi-dashboards**](URL): Data models and reports for strategic decision-making.
+* [**code-labs**](URL): Automation scripts and coding exercises in Python/SQL.
 
 ---
 
-### 🌍 Languages
-**Spanish:** Native.
-**English:** Advanced (EF SET C2).
-**Japanese:** Intermediate (JLPT N5).
+### ⚡ Fun Facts
+📚 **Lifelong learner** • 🌐 **Trilingual:** Spanish (Native), English (C2 - Advanced), Japanese (N5 - Intermediate) • 🚀 **Focused on transitioning into technical security roles.**
 
 ---
 
 ### 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/lucas-gaston-martinez](https://linkedin.com/in/lucas-gaston-martinez)
-* **Portfolio:** [lucasgm94.github.io/](https://lucasgm94.github.io/)
-
-*Passionate about security, innovation, and continuous professional growth.*
+[**LinkedIn**](https://linkedin.com/in/lucas-gaston-martinez) | [**Portfolio**](https://lucasgm94.github.io/)
