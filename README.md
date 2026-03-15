@@ -46,7 +46,9 @@ I am a professional with a solid background in operational workflow optimization
 ---
 
 ### ⚡ Fun Facts
-📚 **Lifelong learner** • 🌐 **Trilingual:** Spanish (Native), English (C2 - Advanced), Japanese (N5 - Intermediate) • 🚀 **Focused on transitioning into technical security roles.**
+📚 **Lifelong learner** 
+• 🌐 **Trilingual:** Spanish (Native), English (C2 - Advanced), Japanese (N5 - Intermediate) 
+• 🚀 **Focused on transitioning into technical security roles.**
 
 ---
 
