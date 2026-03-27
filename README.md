@@ -33,18 +33,19 @@ I am a professional with a solid background in operational workflow optimization
 ---
 
 ### 🛠 Tech Stack
-* **Analysis:** Power BI, Looker Studio, SQL, MySQL, Oracle APEX.
-* **Systems:** ERP Softland, SIEM Splunk, GLPI, Jira, Trello, Notion.
-* **Development:** Python (Scripting & Automation).
-* **Methodologies:** Agile (Scrum, Kanban), Functional/Manual Testing.
+* **Cloud & Infrastructure:** AWS (S3, Amplify, IAM), Cloud Security.
+* **Data & Analysis:** Power BI, SQL (MySQL Workbench), PL/SQL (Oracle Apex).
+* **Systems:** Wireshark, GLPI, Jira, Trello, Notion.
+* **Development & Automation:** Python (Scripting), Git/GitHub.
+* **Management & Agile:** Jira, Trello, Confluence, Notion, Scrum/Kanban.
 
 ---
 
 ### 🚀 Featured Projects
-* [**cybersecurity-labs**](URL): Hands-on security practice and vulnerability assessment.
-* [**aws-cloud**](URL): Hands-on laboratories for secure cloud deployments and infrastructure automation.
-* [**power-bi**](URL): Data models and reports for strategic decision-making.
-* [**code-labs**](URL): Automation scripts and coding exercises in Python/SQL.
+* [**cybersecurity-labs**](https://github.com/lucasgm94/cybersecurity-labs): Hands-on security practice and vulnerability assessment.
+* [**aws-cloud**](https://github.com/lucasgm94/aws-cloud): Hands-on laboratories for secure cloud deployments and infrastructure automation.
+* [**power-bi**](https://github.com/lucasgm94/power-bi): Data models and reports for strategic decision-making.
+* [**code-labs**](https://github.com/lucasgm94/code-labs): Automation scripts and coding exercises in Python/SQL.
 
 ---
 
