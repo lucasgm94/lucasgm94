@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lucas G. Martinez 👨‍💻
+# 👋 Hi, I'm Lucas Martinez 👨‍💻
 
 **Functional Analyst | Process Optimization Specialist | Cybersecurity Enthusiast**
 
