@@ -9,7 +9,7 @@ I am a professional with a solid background in operational workflow optimization
 ### 🛡️ Education & Certifications
 *Key specializations grouped by area of competence:*
 
-#### 🔒 Cybersecurity & GRC
+#### 🔒 Cybersecurity Roadmap
 * **Diploma in Cybersecurity** (UNTREF) — *In progress (2026)*
 * **Security Operations Fundamentals** — *Palo Alto Networks (2026)* 🆕
 * **Introduction to ISO 27000** — *Linkedin Learning (2026)* 🆕
@@ -35,7 +35,7 @@ I am a professional with a solid background in operational workflow optimization
 ### 🛠 Tech Stack
 * **Cloud & Infrastructure:** AWS (S3, Amplify, IAM), Cloud Security.
 * **Data & Analysis:** Power BI, SQL (MySQL Workbench), PL/SQL (Oracle Apex).
-* **Systems:** Wireshark, GLPI, Jira, Trello, Notion.
+* **Security and Monitoring:** Wireshark, Splunk (SIEM).
 * **Development & Automation:** Python (Scripting), Git/GitHub.
 * **Management & Agile:** Jira, Trello, Confluence, Notion, Scrum/Kanban.
 
