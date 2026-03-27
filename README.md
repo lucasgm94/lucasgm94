@@ -57,4 +57,4 @@ I am a professional with a solid background in operational workflow optimization
 ---
 
 ### 📫 Let's Connect
-[**LinkedIn**](https://linkedin.com/in/lucas-gaston-martinez) | [**Portfolio**](https://lucasgm94.github.io/)
+[**LinkedIn**](https://linkedin.com/in/lucas-gaston-martinez)
