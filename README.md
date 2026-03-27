@@ -42,7 +42,8 @@ I am a professional with a solid background in operational workflow optimization
 
 ### 🚀 Featured Projects
 * [**cybersecurity-labs**](URL): Hands-on security practice and vulnerability assessment.
-* [**power-bi-dashboards**](URL): Data models and reports for strategic decision-making.
+* [**aws-cloud**](URL): Hands-on laboratories for secure cloud deployments and infrastructure automation.
+* [**power-bi**](URL): Data models and reports for strategic decision-making.
 * [**code-labs**](URL): Automation scripts and coding exercises in Python/SQL.
 
 ---
