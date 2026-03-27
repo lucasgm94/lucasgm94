@@ -11,6 +11,8 @@ I am a professional with a solid background in operational workflow optimization
 
 #### 🔒 Cybersecurity & GRC
 * **Diploma in Cybersecurity** (UNTREF) — *In progress (2026)*
+* **Security Operations Fundamentals** — *Palo Alto Networks (2026)* 🆕
+* **Introduction to ISO 27000** — *Linkedin Learning (2026)* 🆕
 * **Vulnerability Management** — *IBM Skillsbuild (2026)* 🆕
 * **Governance, Risk & Compliance (GRC)** — *IBM Skillsbuild (2025)*
 * **Introduction to Cybersecurity & Information Security** — *Fundación Telefónica (2024)*
@@ -23,8 +25,8 @@ I am a professional with a solid background in operational workflow optimization
 * **Introduction to Threat Landscape 3.0** — *Fortinet (2025)*
 
 #### 📊 Data, Programming & Administration
-* **Oracle Database Programming - PL/SQL** — *UTN FRBA (2025)*
 * **SQL (Databases)** — *Udemy (2026)*
+* **Oracle Database Programming - PL/SQL** — *UTN FRBA (2025)*
 * **Digital Transformation, Data Science & GenAI** — *Santander Open Academy (2025)*
 * **Accounting Assistant** — *Eddis Educativa (2023)*
 
