@@ -43,8 +43,8 @@ I am a professional with a solid background in operational workflow optimization
 
 ### 🚀 Featured Projects
 * [**cybersecurity-labs**](https://github.com/lucasgm94/cybersecurity-labs): Hands-on security practice and vulnerability assessment.
-* [**aws-cloud**](https://github.com/lucasgm94/cloud-engineering-labs): Hands-on laboratories for secure cloud deployments and infrastructure automation.
-* [**power-bi**](https://github.com/lucasgm94/data-analysis-labs): Data models and reports for strategic decision-making.
+* [**cloud-engineering-labs**](https://github.com/lucasgm94/cloud-engineering-labs): Hands-on laboratories for secure cloud deployments and infrastructure automation.
+* [**data-analysis-labs**](https://github.com/lucasgm94/data-analysis-labs): Data models and reports for strategic decision-making.
 * [**code-labs**](https://github.com/lucasgm94/code-labs): Automation scripts and coding exercises in Python/SQL.
 
 ---
