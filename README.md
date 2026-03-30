@@ -36,15 +36,15 @@ I am a professional with a solid background in operational workflow optimization
 * **Cloud & Infrastructure:** AWS (S3, Amplify, IAM), Cloud Security.
 * **Data & Analysis:** Power BI, SQL (MySQL Workbench), PL/SQL (Oracle Apex).
 * **Security and Monitoring:** Wireshark, Splunk (SIEM).
-* **Development & Automation:** Python (Scripting), Git/GitHub.
-* **Management & Agile:** Jira, Trello, Confluence, Notion, Scrum/Kanban.
+* **Development & Automation:** Python (Scripting), Pycharm, Visual Studio Code, Git/GitHub.
+* **Management & Agile:** Jira, Trello, Confluence, Scrum/Kanban.
 
 ---
 
 ### 🚀 Featured Projects
 * [**cybersecurity-labs**](https://github.com/lucasgm94/cybersecurity-labs): Hands-on security practice and vulnerability assessment.
-* [**aws-cloud**](https://github.com/lucasgm94/aws-cloud): Hands-on laboratories for secure cloud deployments and infrastructure automation.
-* [**power-bi**](https://github.com/lucasgm94/power-bi): Data models and reports for strategic decision-making.
+* [**aws-cloud**](https://github.com/lucasgm94/cloud-engineering-labs): Hands-on laboratories for secure cloud deployments and infrastructure automation.
+* [**power-bi**](https://github.com/lucasgm94/data-analysis-labs): Data models and reports for strategic decision-making.
 * [**code-labs**](https://github.com/lucasgm94/code-labs): Automation scripts and coding exercises in Python/SQL.
 
 ---
